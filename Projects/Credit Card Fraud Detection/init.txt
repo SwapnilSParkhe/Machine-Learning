@@ -1,0 +1,2 @@
+Problem Statement: Predict whether a credit card transaction is fraudulent or not based on its details. Extract the patterns that hint towards fraud by modeling the past transactions such that all frauds are detected and false positives are minimised.
+Solution Framework: EDA -> Anomaly Detection using varios ML algos
